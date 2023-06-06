@@ -6,7 +6,7 @@
 #endif
 #include <Firebase_ESP_Client.h>
 #include <Wire.h>
-
+//aaron pata dura
 
 // Provide the token generation process info.
 #include "addons/TokenHelper.h"
